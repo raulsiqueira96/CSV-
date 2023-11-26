@@ -1,0 +1,24 @@
+CSV
+
+56 MB
+2.1 s salvar
+472 ms para ler
+
+Pickle
+
+42 MB
+640 ms salvar
+213 ms ler
+
+Parquet
+
+10 MB
+318 ms salvar
+113 ms ler
+
+Feather
+
+28 MB
+144 ms salvar
+82 ms ler
+
